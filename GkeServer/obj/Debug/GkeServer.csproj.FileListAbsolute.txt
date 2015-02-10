@@ -1,0 +1,6 @@
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\bin\GkeServer.dll.config
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\bin\GkeServer.dll
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\bin\GkeServer.pdb
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\obj\Debug\GkeServer.csprojResolveAssemblyReference.cache
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\obj\Debug\GkeServer.dll
+c:\users\jaehun.lee\documents\visual studio 2015\Projects\GkeServer\GkeServer\obj\Debug\GkeServer.pdb

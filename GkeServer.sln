@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22512.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFront", "WebFront\WebFront.csproj", "{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Alpha|Any CPU = Alpha|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Live|Any CPU = Live|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Alpha|Any CPU.ActiveCfg = Alpha|Any CPU
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Alpha|Any CPU.Build.0 = Alpha|Any CPU
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Live|Any CPU.ActiveCfg = Alpha|Any CPU
+		{5EF5093A-DE7F-4BEF-9E48-FC996BB04F36}.Live|Any CPU.Build.0 = Alpha|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

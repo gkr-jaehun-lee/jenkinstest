@@ -1,0 +1,13 @@
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\WebFront.dll.config
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\WebFront.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\Newtonsoft.Json.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Common.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Interfaces.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Redis.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Text.dll
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\Newtonsoft.Json.xml
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Common.xml
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Redis.xml
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\bin\ServiceStack.Text.xml
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\obj\Dev\WebFront.csprojResolveAssemblyReference.cache
+C:\Users\jaehun.lee\Documents\Visual Studio 2015\Projects\GkeServer\WebFront\obj\Dev\WebFront.dll
